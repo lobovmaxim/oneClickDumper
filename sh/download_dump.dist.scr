@@ -1,0 +1,5 @@
+cd /tmp
+get dump.rar tmp/dump.rar
+rm dump.rar
+rm dump.sql
+bye
